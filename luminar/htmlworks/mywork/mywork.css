@@ -1,0 +1,56 @@
+h3
+{
+    color: blue;
+    font-size: 32px;
+    margin-bottom: 20px;
+
+}
+.orange
+{
+    color:#5e068a99;
+}
+.button-default
+{
+    background: #5e068a none repeat scroll 0 0;
+    color: #ffffff;
+    display: inline-block;
+    font-size: 14px;
+    margin: 0;
+    padding: 15px 35px;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    -webkit-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+    margin-top: 75px;
+}
+#ds
+{
+    font-size: 20px;
+    line-height: 25px;
+    margin-bottom: 15px;
+    font-weight: 700;
+    color: #5e068a;
+    margin-top: 20px;
+    text-transform: uppercase;
+    
+}
+.stroke-btn
+{
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #5e068a;
+    text-decoration: underline;
+}
+.card img
+{
+    width: 100%;
+}
+.course-item-sec {
+    height: 490px;
+    margin-bottom: 65px;
+}
+.card-title
+{
+    color: #5e068a;
+    font-size: 18px;
+}

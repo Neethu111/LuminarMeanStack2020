@@ -1,0 +1,6 @@
+f1=(num1,num2)=>(num1+num2)
+f2=(num1,num2)=>(num1-num2)
+f3=(num1,num2)=>(num1*num2)
+f4=(num1,num2)=>(num1%num2)
+f5=(num1)=>(num1**3)
+console.log(f1(5,3))

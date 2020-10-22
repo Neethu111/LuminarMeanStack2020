@@ -1,0 +1,19 @@
+#top
+{
+    width: 50%;
+    color: indigo;
+    border-style: dotted;
+    border-color: fuchsia;
+    margin-left: 40%;
+    padding-left: 10px;
+    margin-top: 20%;
+}
+#bottom{
+    width: 50%;
+    color: deeppink;
+    border-style: dotted;
+    border-color: green;
+    margin-top: 30%;
+    margin-left: 20%;
+    padding-left: 25%;
+}

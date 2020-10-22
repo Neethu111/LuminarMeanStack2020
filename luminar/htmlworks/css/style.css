@@ -1,0 +1,33 @@
+h1
+{
+    color:red;
+}
+h2{
+    color: blue;
+}
+body
+{
+    background-color: cadetblue;
+}
+div
+{
+    border-style: dotted;
+    border-color: chocolate;
+}
+#one
+{
+    border-style: double;
+    border-color: crimson;
+}
+.three
+{
+    border-style: dotted;
+    border-color: darkblue;
+}
+#new
+{
+    color: rgb(66, 47, 57);
+}
+ul{
+    color: indigo;
+}

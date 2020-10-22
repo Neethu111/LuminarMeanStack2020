@@ -1,0 +1,52 @@
+img{
+    width: 120px;
+  height: 150px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+}
+#header
+{
+  display: grid;
+  grid-template-columns: 2fr 5fr;
+  background: linen;
+  color: black;
+}
+#name
+{
+  margin-top: 40px;
+font-weight: bold;
+letter-spacing: 0.5;
+
+}
+#underline
+{
+  width: 300px;
+  height: 7px;
+  background: rgb(214, 209, 209);
+  margin-top: 10px;
+}
+#mail{
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 17px;
+
+}
+.objective
+{
+  background: linen;
+  padding: 10px;
+  font-weight: bold;
+  
+}
+#obj
+{
+  color: black;
+  font-size: 15px;
+  
+}
+#ph
+{
+  font-weight: bold;
+  font-size: 17px;
+}
